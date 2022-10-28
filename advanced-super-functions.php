@@ -1,6 +1,6 @@
 <?php
 /**
- * Query Monitor plugin for WordPress
+ * Advanced Super Functions
  *
  * @package       ASF
  * @author        Sandro Würmli
@@ -14,8 +14,8 @@
  * Author URI:    https://sandro.live/
  * Plugin URI:    https://sandro.live/advanced-super-functions/
  * Text Domain:   asf
- * Domain Path:   /languages
- * Requires PHP: 7.4.27
+ * Domain Path:   /resources/lang
+ * Requires PHP:  7.4.27
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
